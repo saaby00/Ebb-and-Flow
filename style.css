@@ -1,0 +1,33 @@
+      body {
+          max-width: 1000px;
+          margin: 0 auto;
+          background-color: #dadada;
+          padding-top: 1.5em;
+        }
+     h1 {
+        font-style: normal;
+        font-family: sans-serif;
+        }
+     h2 {
+        font-style: normal;
+        font-family: sans-serif; }
+      p {
+          font-style: normal;
+          font-family: sans-serif;
+          word-spacing: normal;
+          line-height: 145%;
+          text-align: justify;
+        }
+      a {
+         font-family: sans-serif;
+         display: block;
+         }
+      img.selfie {
+          float: left;
+          margin-top: 1.5em;
+          margin-right: 15px;
+        }
+      img.hero{
+            max-width: 100%;
+            height: auto;
+        }
