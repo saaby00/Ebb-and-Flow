@@ -1,4 +1,4 @@
-      body {
+    body {
           max-width: 1000px;
           margin: 0 auto;
           background-color: #dadada;
@@ -30,4 +30,10 @@
       img.hero{
             max-width: 100%;
             height: auto;
-        }
+        }   
+@media only screen and(max-width: 600px){
+    body {max-width: 100%;
+          margin: 1.1em;}
+    p {text-align: left;}
+    img.selfie {float: none;}
+}
